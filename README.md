@@ -22,14 +22,13 @@ Here are some ideas to get you started:
     <th> Previously </th>
   </tr>
   <td>
-    ❄️ ML Intern @ Snowflake<br>
     🛠️ Developer @ LA Blueprint<br>
     🩺 Developing Lynne
   </td>
   <td>
+    ❄️ ML Intern @ Snowflake<br>
     🦿 1st place @ UCLA BioHackathon<br>
     💻 Teaching Computer Architecture<br>
-    🤖 AI Officer @ ACM
   </td>
 </table>
 
